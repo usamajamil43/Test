@@ -1,0 +1,7 @@
+requests
+faiss-cpu  # Change to 'faiss' if you're not specifically using the CPU version
+pandas
+numpy
+transformers
+torch
+langchain
